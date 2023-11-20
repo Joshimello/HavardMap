@@ -1,7 +1,7 @@
 <script lang="ts">
   import { T, useThrelte } from '@threlte/core'
   import { OrbitControls, Environment } from '@threlte/extras'
-  import Map from './Map.svelte'
+  import Map from './map.svelte'
   import { Fog, Vector3 } from 'three'
   import { onMount } from 'svelte'
 
